@@ -1,0 +1,15 @@
+2020-02-19/17:35:25		 creditCardFraud_021119920_010222.csv: File Transformed successfully!!
+2020-04-12/21:45:57		 creditCardFraud_28011960_120210.csv: File Transformed successfully!!
+2020-04-12/21:45:57		 creditCardFraud_28011962_120212.csv: File Transformed successfully!!
+2021-12-01/22:33:25		 creditCardFraud_28011960_120210.csv: File Transformed successfully!!
+2021-12-01/22:33:25		 creditCardFraud_28011962_120212.csv: File Transformed successfully!!
+2022-04-01/21:50:07		 creditCardFraud_28011960_120210.csv: File Transformed successfully!!
+2022-04-01/21:50:07		 creditCardFraud_28011962_120212.csv: File Transformed successfully!!
+2022-06-07/20:35:05		 creditCardFraud_28011960_120210.csv: File Transformed successfully!!
+2022-06-07/20:35:05		 creditCardFraud_28011962_120212.csv: File Transformed successfully!!
+2022-06-07/20:37:52		 creditCardFraud_28011960_120210.csv: File Transformed successfully!!
+2022-06-07/20:37:52		 creditCardFraud_28011962_120212.csv: File Transformed successfully!!
+2022-06-07/21:07:50		 creditCardFraud_28011960_120210.csv: File Transformed successfully!!
+2022-06-07/21:07:50		 creditCardFraud_28011962_120212.csv: File Transformed successfully!!
+2022-06-07/22:01:21		 creditCardFraud_28011960_120210.csv: File Transformed successfully!!
+2022-06-07/22:01:21		 creditCardFraud_28011962_120212.csv: File Transformed successfully!!
